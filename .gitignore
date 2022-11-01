@@ -1,0 +1,19 @@
+new_python/packages/site-packages/torch/*
+new_python/packages/dist-packages/torch/*
+new_python/app/scripts/test/*
+new_python/app/scripts/Processed video.avi
+new_python/app/scripts/processed_frames/*
+new_python/packages/dist-packages/Cython-0.29.32.dist-info/
+new_python/packages/dist-packages/Cython/*
+new_python/packages/dist-packages/cuda/*
+new_python/packages/dist-packages/cuda_python-11.8.0.dist-info/
+new_python/packages/dist-packages/cython.py
+new_python/packages/dist-packages/pyximport/*
+new_python/packages/site-packages/torch/lib/libtorch_cpu.so
+new_python/packages/dist-packages/tensorflow/*
+new_python/packages/site-packages/tensorflow/*
+new_python/packages/dist-packages/tensorflow_io/*
+new_python/packages/site-packages/tensorflow_io/*
+new_python/packages/dist-packages/grpc/*
+new_python/packages/site-packages/grpc/*
+**/__pycache__/**
