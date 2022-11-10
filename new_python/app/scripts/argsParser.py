@@ -42,6 +42,6 @@ def ArgParse():
     tmp_args.fp16 = False
     tmp_args.legacy = False
     tmp_args.fuse = False
-    tmp_args.trt = False
+    tmp_args.trt = True
     
     return tmp_args

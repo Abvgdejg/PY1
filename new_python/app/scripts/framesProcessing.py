@@ -4,7 +4,6 @@
 
 import collections
 import os
-from importlib.metadata import files
 from loguru import logger
 import cv2
 import writeTools
@@ -140,10 +139,10 @@ def main_search(exp, args, files):
     if not args.experiment_name:
         args.experiment_name = exp.exp_name
 
-    file_name = os.path.join(exp.output_dir, args.experiment_name)
+    file_name = './resources'
     
 
-    if False:
+    if args.trt:
         args.device = "gpu"
 
     
